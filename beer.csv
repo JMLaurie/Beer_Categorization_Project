@@ -1,0 +1,36 @@
+Name,Rating,Origin,Avail,Price,Cost,Calories,Sodium,Alcohol,Class,Light
+Budweiser Light,Good,USA,National,2.63,0.44,113, 8,3.7,NA,Light
+Coors Light,Good,USA,Regional,2.73,0.46,102,15,4.1,NA,Light
+Michelob Light,Good,USA,National,2.99,0.50,135,11,4.2,NA,Light
+Miller Light,Good,USA,National,2.55,0.43, 99,10,4.3,NA,Light
+Olympia G. Light,Fair,USA,Regional,2.75,0.46, 72, 6,2.9,NA,Light
+Pabst Ex. Light,Fair,USA,National,2.29,0.38, 68,15,2.3,NA,Light
+Schlitz Light,Fair,USA,National,2.79,0.47, 97, 7,4.2,NA,Light
+Anchor Steam,VeryGood,USA,Regional,7.19,1.20,154,17,4.7,Super-premium,Nonlight
+Augsberger,Good,USA,Regional,2.39,0.40,175,24,5.5,Super-premium,Nonlight
+Becks,Good,Germany,Regional,4.55,0.76,150,19,4.7,NA,Nonlight
+Blatz,Fair,USA,Regional,1.79,0.30,144,13,4.6,Popular,Nonlight
+Budweiser,VeryGood,USA,National,2.59,0.43,144,15,4.7,Premium,Nonlight
+Coors,Good,USA,Regional,2.65,0.44,140,18,4.6,Premium,Nonlight
+Dos Equis,Good,Mexico,Regional,4.22,0.70,145,14,4.5,NA,Nonlight
+Hamms,Fair,USA,Regional,2.59,0.43,136,19,4.4,Premium,Nonlight
+Heilmans Old Style,Fair,USA,Regional,2.59,0.43,144,24,4.9,Premium,Nonlight
+Heineken,VeryGood,Holland,National,4.59,0.77,152,11,5.0,NA,Nonlight
+Henry Weinhard,VeryGood,USA,Regional,3.65,0.61,149, 7,4.7,Super-premium,Nonlight
+Kirin,Good,Japan,Regional,4.75,0.79,149, 6,5.0,NA,Nonlight
+Kronenbourg,VeryGood,France,Regional,4.39,0.73,170, 7,5.2,NA,Nonlight
+Labatts,VeryGood,Canada,Regional,3.15,0.53,147,17,5.0,NA,Nonlight
+Lowenbrau,VeryGood,Germany,National,2.89,0.48,157,15,4.9,Super-premium,Nonlight
+Michelob,VeryGood,USA,National,2.99,0.50,162,10,5.0,Super-premium,Nonlight
+Miller H. Life,VeryGood,USA,National,2.49,0.42,149,17,4.7,Premium,Nonlight
+Molson,VeryGood,Canada,Regional,3.35,0.56,154,17,5.1,NA,Nonlight
+Old Milwaukee,Good,USA,Regional,1.69,0.28,145,23,4.6,Popular,Nonlight
+Olympia,Good,USA,Regional,2.65,0.44,153,27,4.6,Premium,Nonlight
+Pabst Blue Rib.,Good,USA,National,2.29,0.38,152, 8,4.9,Premium,Nonlight
+Rolling Rock,Fair,USA,Regional,2.15,0.36,144, 8,4.7,Premium,Nonlight
+Schlitz,VeryGood,USA,National,2.59,0.43,151,19,4.9,Premium,Nonlight
+Schmidts,Good,USA,Regional,1.79,0.30,147, 7,4.7,Popular,Nonlight
+Scotch Buy,Fair,USA,Regional,1.59,0.27,145,18,4.5,NA,Nonlight
+St Pauli Girl,Fair,Germany,Regional,4.59,0.77,144,21,4.7,NA,Nonlight
+Strohs Bohemian,Good,USA,Regional,2.49,0.42,149,27,4.7,Premium,Nonlight
+Tuborg,Fair,USA,Regional,2.59,0.43,155,13,5.0,Premium,Nonlight
